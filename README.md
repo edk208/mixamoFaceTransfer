@@ -5,7 +5,7 @@ In order to run the code, you will need to use matlab to generate the blendshape
 
 Copy the coefficients into a Unity directory called “coeffs”.  Import the “test.UnityPackage” to get the Mixamo model.  View the image for the proper setup of the model and scripts.
 
-![alt text](https://github.com/edk208/mixamoFaceTransfer/blob/master/unitysetup.png “unity setup”)
+![alt text](https://github.com/edk208/mixamoFaceTransfer/blob/master/unitysetup.png)
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WlAPUCA4O3o
