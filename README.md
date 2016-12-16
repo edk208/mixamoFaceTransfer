@@ -1,8 +1,8 @@
 # mixamoFaceTransfer
 A machine learning approach for tracking face expressions and transferring them to Unity3D and mixamo characters
 
-<img src=“https://github.com/edk208/mixamoFaceTransfer/blob/master/demoimg2.png” width=“350px”/>
-<img src=“https://github.com/edk208/mixamoFaceTransfer/blob/master/demoimg.png” width=“350px”/>
+<img src="https://github.com/edk208/mixamoFaceTransfer/blob/master/demoimg2.png" width="350px"/>
+<img src="https://github.com/edk208/mixamoFaceTransfer/blob/master/demoimg.png" width="350px"/>
 
 In order to run the code, you will need to use matlab to generate the blendshape coefficients.  The demo.m will generate the txt files shown in the folder “co”.
 
